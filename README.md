@@ -7,6 +7,11 @@
 
 <br />
   
+
+
+
+<!--
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -15,9 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-
-<!--
 
 <a href="https://www.facebook.com/dmitry.bugaefff">
   <img align="left" alt="Facebook" width="22px" src="https://www.nicepng.com/png/detail/940-9402277_facebook-icon-link-facebook-white-icon.png" />
