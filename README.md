@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/dmitry.bugaefff">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://www.nicepng.com/png/detail/940-9402277_facebook-icon-link-facebook-white-icon.png" />
 </a>
 <a href="https://t.me/@booogie">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -14,8 +14,6 @@
 привет, меня зовут Дмитрий, я архитектор в компании gradun. изучаю микросервисную архитектуру и сопутствующие технологии.
 
 <br />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
