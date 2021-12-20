@@ -1,13 +1,5 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.facebook.com/dmitry.bugaefff">
-  <img align="left" alt="Facebook" width="22px" src="https://www.nicepng.com/png/detail/940-9402277_facebook-icon-link-facebook-white-icon.png" />
-</a>
-<a href="https://t.me/@booogie">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/bugaefff">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 <br />
 
@@ -26,6 +18,17 @@
 
 
 <!--
+
+<a href="https://www.facebook.com/dmitry.bugaefff">
+  <img align="left" alt="Facebook" width="22px" src="https://www.nicepng.com/png/detail/940-9402277_facebook-icon-link-facebook-white-icon.png" />
+</a>
+<a href="https://t.me/@booogie">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/bugaefff">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <a href="https://www.linkedin.com/in/your_profile">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
