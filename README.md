@@ -3,7 +3,7 @@
 
 <br />
 
-меня зовут Дмитрий, я архитектор в компании gradum. изучаю микросервисную архитектуру и сопутствующие технологии.
+Hi everyone, my name is Dmitry. I'm specialized on OLTP and OLAP data bases, DW, ETL/ELT datapipelines, BI and data visualisation 
 
 <br />
   
