@@ -1,11 +1,5 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<br />
-
-Hi everyone, my name is Dmitry. I'm specialized on OLTP and OLAP data bases, DW, ETL/ELT datapipelines, BI and data visualisation 
-
-<br />
   
 
 
